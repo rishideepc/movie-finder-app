@@ -31,7 +31,7 @@ h1 {
   letter-spacing: 0.9px;
   background: linear-gradient(
     90deg,
-    rgba(249, 211, 180, 1) 0%,
+    rgb(138, 141, 144) 0%,
     rgba(249, 211, 180, 0) 100%
   );
   background-clip: text;
@@ -100,7 +100,7 @@ h1 {
 
 .empty h2 {
   font-size: 1.25rem;
-  color: #f9d3b4;
+  color: #696762;
   font-family: var(--font-raleway);
 }
 
@@ -134,7 +134,7 @@ h1 {
   width: 100%;
   opacity: 0;
   top: 0;
-  color: #f9d3b4;
+  color: #8e8e8e;
 }
 
 .movie:hover {
@@ -175,7 +175,7 @@ h1 {
 .movie div:nth-of-type(3) h3 {
   margin-top: 5px;
   font-family: "Roboto Slab", serif;
-  color: #f9d3b4;
+  color: #a0a0a0;
 }
 
 .movie:hover div:nth-of-type(2) {

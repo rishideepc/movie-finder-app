@@ -38,7 +38,7 @@ const App = () => {
 
     return (
         <div className="app">
-            <h1>MovieLand</h1>
+            <h1>MovieFinder</h1>
             <div className="search">
                 <input
                     placeholder="Search Movies, Actors, Genres"
@@ -65,7 +65,7 @@ const App = () => {
                     </div>
                 ):(
                 <div className="empty">
-                    <h2>No movies found</h2>
+                    <h2>Oops! No movies found.</h2>
                 </div>
                 )
             }
