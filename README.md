@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Movie Finder Web-App
+## built on React JS
+### using OMDb API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Deployed Web-app link: https://moviefinderrishi.netlify.app/
+
 
 ## Available Scripts
 
